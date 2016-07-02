@@ -11,6 +11,7 @@ end
 # gem 'active_attr', path: '../active_attr'
 
 gem 'listen', '< 3.1'
+gem 'activemodel-serializers-xml'
 
 group 'test' do
   gem 'coveralls', require: false
